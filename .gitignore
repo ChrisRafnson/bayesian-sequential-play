@@ -1,0 +1,10 @@
+*.zip
+*.txt
+*.pptx
+*.pkl
+*.pyc
+*.json
+*.csv
+*.msgpack
+*.png
+*.npz
